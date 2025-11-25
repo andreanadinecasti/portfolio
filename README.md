@@ -5,41 +5,30 @@ My work spans **systems programming**, **full-stack development**, **AR/VR inter
 
 <h2>👨‍💻 Software Engineering & XR Projects:</h2>
 
-- <b>Multi-Threaded HTTP/1.0 Server (C, POSIX Threads)</b>  
-  - [Repo](https://github.com/andreanadinecasti/multi-threaded-http-server)
+- [Multi-Threaded HTTP/1.0 Server (C, POSIX Threads](https://github.com/andreanadinecasti/multi-threaded-http-server)
 
-- <b>Saving Fin: AR Climate Resilience Game (Unity, C#, AR Foundation)</b>  
-  - [Repo](https://github.com/SET-Lab-UCSC/cccr_ar_river.git)
+- [Saving Fin: AR Climate Resilience Game (Unity, C#, AR Foundation)](https://github.com/SET-Lab-UCSC/cccr_ar_river.git)
 
-- <b>Health Tracker: Nutrition & Exercise Analytics (Python, SQL, Tableau)</b>  
-  - Repo: ...
+- Health Tracker: Nutrition & Exercise Analytics (Python, SQL, Tableau)
 
-- <b>Slow Spaces: VR Study Tools (Unity + Research Pipelines)</b>  
-  - Repo: ...
+- Slow Spaces: VR Study Tools (Unity + Research Pipelines)
 
 <h2>📊 Data & Research Projects</h2>
 
-- <b>Qualitative UX Analysis Pipeline</b>  
-  - Cleaned and coded 19+ VR study transcripts to extract major UX themes  
-  - Used HCI evaluation frameworks + systematic coding processes  
+- Qualitative UX Analysis Pipeline
 
-- <b>Community Engagement Analytics Dashboard (Python / Excel)</b>  
-  - Analyzed metrics from public climate workshops  
-  - Informed outreach strategy through data visualization & storytelling  
+- Community Engagement Analytics Dashboard (Python / Excel)
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/andreanadinecasti)
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/andrea-nadine-castillo)
-[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:andreanadine.castillo@gmail.com)
+[<img align="left" alt="Andrea Castillo | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="Andrea Castillo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Andrea Castillo | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+[<img align="left" alt="Andrea Castillo | Instagram" width="22px" src="https://cdn.jsedelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[github] : https://github.com/andreanadinecasti
+[linkedin] : https://www.linkedin.com/in/andrea-nadine-castillo
+[email] : mailto:andreanadine.castillo@gmail.com
+[instagram] : https://www.instagram.com/andreancastillo/
 
 <br/><br/>
-
----
-
-### 🌿 A little more about me:
-- 🎮 I build AR/XR experiences that promote climate resilience and playful education  
-- 🧠 I love systems work — threading, sockets, and backend logic  
-- 📊 I also enjoy data cleaning, analysis, and visualization  
-- 🧩 Logic puzzles, river trails, and flowcharts make me happy  
-- 😄 Pronouns: she/her  
