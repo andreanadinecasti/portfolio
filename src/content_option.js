@@ -87,7 +87,7 @@ const dataportfolio = [
     {
         img: require("./assets/images/rosa.jpg"),
         description: "Saving Fin — mobile AR climate-resilience game built with Unity + AR Foundation; playtesting-informed UI.",
-        link: "https://github.com/SET-Lab-UCSC/cccr_ar_river",
+        link: "https://github.com/andreanadinecasti/ccr-savingfin",
     },
     {
         img: require("./assets/images/httpserver.png"),
