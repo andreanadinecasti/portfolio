@@ -120,8 +120,7 @@ const contactConfig = {
 const socialprofils = {
     github: "https://github.com/andreanadinecasti",
     linkedin: "https://linkedin.com/in/andrea-nadine-castillo",
-    //facebook: "https://facebook.com",
-    //twitter: "https://twitter.com",
+    instagram: "https://www.instagram.com/andreancastillo/",
 };
 
 export {
