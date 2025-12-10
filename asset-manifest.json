@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.4ab2ad06.css",
+    "main.js": "/portfolio/static/js/main.69c4ce1d.js",
+    "static/media/ccr.png": "/portfolio/static/media/ccr.fe6bb29f2d1d244426fd.png",
+    "static/media/slowspaces.png": "/portfolio/static/media/slowspaces.bf5fd594c785e3dd1f05.png",
+    "static/media/profile2.JPG": "/portfolio/static/media/profile2.c66228fbc7ebb443f028.JPG",
+    "static/media/rosa.jpg": "/portfolio/static/media/rosa.cfa49ab7b3bc4569eea1.jpg",
+    "static/media/httpserver.png": "/portfolio/static/media/httpserver.4c6b26e389600e4f0d85.png",
+    "static/media/HowTheDaysMove.png": "/portfolio/static/media/HowTheDaysMove.f4641dd2daf5d9f232c2.png",
+    "static/media/killerBuns.png": "/portfolio/static/media/killerBuns.38ccfa8c27084c9d6f68.png",
+    "index.html": "/portfolio/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.4ab2ad06.css",
+    "static/js/main.69c4ce1d.js"
+  ]
+}
